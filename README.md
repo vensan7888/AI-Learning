@@ -8,3 +8,5 @@ Demostrates how to setup an llm in personal laptops
 * Build a chatbot
 * Set Context
 * Set Conginitive memory
+
+### end to end demo ``https://www.youtube.com/watch?v=G__8n5N1BDM`` of ``simple-agent`` & ``mistral-bot``
