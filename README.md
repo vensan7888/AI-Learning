@@ -1,3 +1,5 @@
+# This Repo is about sharing my learning in building various AI applications from basic to complex level.**
+
 # simple-agent : 
 Demonstrates how to quickly setup an agent with simple steps.
 
