@@ -9,4 +9,4 @@ Demostrates how to setup an llm in personal laptops
 * Set Context
 * Set Conginitive memory
 
-### end to end demo ``https://www.youtube.com/watch?v=G__8n5N1BDM`` of ``simple-agent`` & ``mistral-bot``
+### *** End to end demo ``https://www.youtube.com/watch?v=G__8n5N1BDM`` of ``simple-agent`` & ``mistral-bot`` ***
