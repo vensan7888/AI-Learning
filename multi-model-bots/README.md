@@ -19,7 +19,7 @@ Perfect for beginners & AI enthusiasts.
 
 ---
 
-# 🧩 1. **System Requirements**
+# 🧩 **System Requirements**
 
 ### **Minimum**
 
@@ -34,7 +34,7 @@ Perfect for beginners & AI enthusiasts.
 
 ---
 
-# 📥 2. **Installation Steps**
+# 📥 **Installation Steps**
 
 ```
 pip install diffusers transformers accelerate safetensors pillow
@@ -42,7 +42,7 @@ pip install diffusers transformers accelerate safetensors pillow
 
 Follow https://github.com/ollama/ollama?tab=readme-ov-file
 
-# 💬 3. **Demo 1: Run Ollama Demo**
+# 💬 **Demo 1: Run Ollama Demo**
 
 In this demo:
 
@@ -52,7 +52,7 @@ Create your own model by following ollama guide
 
 ---
 
-# 💬 4. **Demo 2: Run Your First Multi model Demo**
+# 💬 **Demo 2: Run Your First Multi model Demo**
 
 In this demo:
 
@@ -65,7 +65,7 @@ python ollama_multiModel_bot.py
 ```
 ---
 
-# 💬 4. **Demo 3: Reimagine an Image, Using 3 Models**
+# 💬 **Demo 3: Reimagine an Image, Using 3 Models**
 
 This demo uses:
 
@@ -81,7 +81,7 @@ python reimagine.py <input.jpg path> <output path>
 ```
 ---
 
-# 🏁 5. **Conclusion**
+# 🏁 **Conclusion**
 
 In this episode you learned how to:
 
